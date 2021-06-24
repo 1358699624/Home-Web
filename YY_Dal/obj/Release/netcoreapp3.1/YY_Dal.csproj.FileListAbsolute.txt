@@ -1,0 +1,12 @@
+E:\马连军\Excel-Import\YY_Dal\bin\Release\netcoreapp3.1\YY_Dal.deps.json
+E:\马连军\Excel-Import\YY_Dal\bin\Release\netcoreapp3.1\YY_Dal.dll
+E:\马连军\Excel-Import\YY_Dal\bin\Release\netcoreapp3.1\YY_Dal.pdb
+E:\马连军\Excel-Import\YY_Dal\bin\Release\netcoreapp3.1\YY_Model.dll
+E:\马连军\Excel-Import\YY_Dal\bin\Release\netcoreapp3.1\YY_Model.pdb
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.csprojAssemblyReference.cache
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.AssemblyInfoInputs.cache
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.AssemblyInfo.cs
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.csproj.CoreCompileInputs.cache
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.csproj.CopyComplete
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.dll
+E:\马连军\Excel-Import\YY_Dal\obj\Release\netcoreapp3.1\YY_Dal.pdb
