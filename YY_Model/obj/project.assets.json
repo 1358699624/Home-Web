@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\马连军\\.nuget\\packages\\": {},
+    "C:\\Users\\m\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj",
+      "projectUniqueName": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj",
       "projectName": "YY_Model",
-      "projectPath": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj",
-      "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-      "outputPath": "E:\\马连军\\Excel-Import\\YY_Model\\obj\\",
+      "projectPath": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj",
+      "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+      "outputPath": "D:\\VS2019\\Excel-Import\\YY_Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

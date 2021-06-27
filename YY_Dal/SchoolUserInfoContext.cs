@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using YY_Model;
 
 namespace YY_Dal
@@ -7,12 +8,19 @@ namespace YY_Dal
     /// TODO:数据库上下文类是为给定数据模型协调 EF Core 功能的主类。 上下文派生自 Microsoft.EntityFrameworkCore.DbContext。 上下文指定数据模型中包含哪些实体。
     /// 定义数据库上下文
     /// </summary>
-    public class SchoolUserInfoContext:DbContext
+    public class SchoolUserInfoContext : DbContext
     {
         public SchoolUserInfoContext(DbContextOptions<SchoolUserInfoContext> options)
             : base(options)
         {
         }
+
+        /*public SchoolUserInfoContext()
+        {
+        }*/
+
+
+
 
         //创建 DbSet<TEntity> 属性。 在 EF Core 术语中：
         //实体集通常对应数据库表。

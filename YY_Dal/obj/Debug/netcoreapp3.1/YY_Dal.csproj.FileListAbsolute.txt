@@ -22,3 +22,15 @@ E:\马连军\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.csproj.CoreCompi
 E:\马连军\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.csproj.CopyComplete
 E:\马连军\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.dll
 E:\马连军\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.pdb
+D:\VS2019\Excel-Import\YY_Dal\bin\Debug\netcoreapp3.1\YY_Dal.deps.json
+D:\VS2019\Excel-Import\YY_Dal\bin\Debug\netcoreapp3.1\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\bin\Debug\netcoreapp3.1\YY_Dal.pdb
+D:\VS2019\Excel-Import\YY_Dal\bin\Debug\netcoreapp3.1\YY_Model.dll
+D:\VS2019\Excel-Import\YY_Dal\bin\Debug\netcoreapp3.1\YY_Model.pdb
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.csproj.AssemblyReference.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.AssemblyInfoInputs.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.AssemblyInfo.cs
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.csproj.CoreCompileInputs.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.csproj.CopyComplete
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\obj\Debug\netcoreapp3.1\YY_Dal.pdb

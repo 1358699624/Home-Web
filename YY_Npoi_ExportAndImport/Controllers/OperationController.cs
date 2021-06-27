@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using YY_Model;
+using YY_Services;
 
 namespace YY_NpoiExportAndImport.Controllers
 {
@@ -63,25 +65,41 @@ namespace YY_NpoiExportAndImport.Controllers
             }
         }
 
-        // GET: OperationController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
         // POST: OperationController/Delete/5
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(int id)
+        {
+            //请求数据库使用EF
+            userInfoService userInfoService = new userInfoService();
+            int  i =  userInfoService.Delete(id);
+            if (i>0)
+            {
+              
+            }
+            return View();
+        }
+        //Ajax
+        // POST: OperationController/Delete/5
+        [HttpPost]
+        public IActionResult Delete111([FromForm] int Id)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                return Json(new { code = 0, msg = $"接收到的参数 para1:{Id}" });
+                /*userInfoService userInfoService = new userInfoService();
+                int i = userInfoService.Delete(Id);
+                if (i > 0)
+                {
+
+                }
+                return Json(new { code = 0, msg = $"接收到的参数 ids:{Id}" });*/
             }
             catch
             {
                 return View();
             }
         }
+
+
     }
 }

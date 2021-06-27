@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\马连军\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj": {}
+    "D:\\VS2019\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj": {}
   },
   "projects": {
-    "E:\\马连军\\Excel-Import\\Export.Services\\YY_Services.csproj": {
+    "D:\\VS2019\\Excel-Import\\Export.Services\\YY_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\马连军\\Excel-Import\\Export.Services\\YY_Services.csproj",
+        "projectUniqueName": "D:\\VS2019\\Excel-Import\\Export.Services\\YY_Services.csproj",
         "projectName": "YY_Services",
-        "projectPath": "E:\\马连军\\Excel-Import\\Export.Services\\YY_Services.csproj",
-        "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-        "outputPath": "E:\\马连军\\Excel-Import\\Export.Services\\obj\\",
+        "projectPath": "D:\\VS2019\\Excel-Import\\Export.Services\\YY_Services.csproj",
+        "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019\\Excel-Import\\Export.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\马连军\\Excel-Import\\Utility\\YY_Utility.csproj": {
-                "projectPath": "E:\\马连军\\Excel-Import\\Utility\\YY_Utility.csproj"
+              "D:\\VS2019\\Excel-Import\\Utility\\YY_Utility.csproj": {
+                "projectPath": "D:\\VS2019\\Excel-Import\\Utility\\YY_Utility.csproj"
               },
-              "E:\\马连军\\Excel-Import\\YY_Dal\\YY_Dal.csproj": {
-                "projectPath": "E:\\马连军\\Excel-Import\\YY_Dal\\YY_Dal.csproj"
+              "D:\\VS2019\\Excel-Import\\YY_Dal\\YY_Dal.csproj": {
+                "projectPath": "D:\\VS2019\\Excel-Import\\YY_Dal\\YY_Dal.csproj"
               },
-              "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj": {
-                "projectPath": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj"
+              "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj": {
+                "projectPath": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj"
               }
             }
           }
@@ -96,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\马连军\\Excel-Import\\Utility\\YY_Utility.csproj": {
+    "D:\\VS2019\\Excel-Import\\Utility\\YY_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\马连军\\Excel-Import\\Utility\\YY_Utility.csproj",
+        "projectUniqueName": "D:\\VS2019\\Excel-Import\\Utility\\YY_Utility.csproj",
         "projectName": "YY_Utility",
-        "projectPath": "E:\\马连军\\Excel-Import\\Utility\\YY_Utility.csproj",
-        "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-        "outputPath": "E:\\马连军\\Excel-Import\\Utility\\obj\\",
+        "projectPath": "D:\\VS2019\\Excel-Import\\Utility\\YY_Utility.csproj",
+        "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019\\Excel-Import\\Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -160,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\马连军\\Excel-Import\\YY_Dal\\YY_Dal.csproj": {
+    "D:\\VS2019\\Excel-Import\\YY_Dal\\YY_Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\马连军\\Excel-Import\\YY_Dal\\YY_Dal.csproj",
+        "projectUniqueName": "D:\\VS2019\\Excel-Import\\YY_Dal\\YY_Dal.csproj",
         "projectName": "YY_Dal",
-        "projectPath": "E:\\马连军\\Excel-Import\\YY_Dal\\YY_Dal.csproj",
-        "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-        "outputPath": "E:\\马连军\\Excel-Import\\YY_Dal\\obj\\",
+        "projectPath": "D:\\VS2019\\Excel-Import\\YY_Dal\\YY_Dal.csproj",
+        "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019\\Excel-Import\\YY_Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,8 +192,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj": {
-                "projectPath": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj"
+              "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj": {
+                "projectPath": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj"
               }
             }
           }
@@ -232,24 +232,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj": {
+    "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj",
+        "projectUniqueName": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj",
         "projectName": "YY_Model",
-        "projectPath": "E:\\马连军\\Excel-Import\\YY_Model\\YY_Model.csproj",
-        "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-        "outputPath": "E:\\马连军\\Excel-Import\\YY_Model\\obj\\",
+        "projectPath": "D:\\VS2019\\Excel-Import\\YY_Model\\YY_Model.csproj",
+        "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019\\Excel-Import\\YY_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -290,24 +290,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\马连军\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj": {
+    "D:\\VS2019\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\马连军\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj",
+        "projectUniqueName": "D:\\VS2019\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj",
         "projectName": "YY_NpoiExportAndImport",
-        "projectPath": "E:\\马连军\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj",
-        "packagesPath": "C:\\Users\\马连军\\.nuget\\packages\\",
-        "outputPath": "E:\\马连军\\Excel-Import\\YY_Npoi_ExportAndImport\\obj\\",
+        "projectPath": "D:\\VS2019\\Excel-Import\\YY_Npoi_ExportAndImport\\YY_NpoiExportAndImport.csproj",
+        "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019\\Excel-Import\\YY_Npoi_ExportAndImport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\马连军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -322,8 +322,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\马连军\\Excel-Import\\Export.Services\\YY_Services.csproj": {
-                "projectPath": "E:\\马连军\\Excel-Import\\Export.Services\\YY_Services.csproj"
+              "D:\\VS2019\\Excel-Import\\Export.Services\\YY_Services.csproj": {
+                "projectPath": "D:\\VS2019\\Excel-Import\\Export.Services\\YY_Services.csproj"
               }
             }
           }
@@ -350,7 +350,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[3.1.5, )"
             }
           },
           "imports": [
@@ -371,7 +371,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
